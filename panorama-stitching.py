@@ -7,11 +7,11 @@ import matplotlib.pyplot as plt
 # ~ INITIALIZING  ~
 
 # Load the images I need
-img1 = cv2.imread(r'C:/Users/sandr/Documents/FACULTATE/ANUL 4/SEM 1/IPIVA/TEMA 2/set5/4.png')
-img2 = cv2.imread(r'C:/Users/sandr/Documents/FACULTATE/ANUL 4/SEM 1/IPIVA/TEMA 2/set5/5.png')
-img3 = cv2.imread(r'C:/Users/sandr/Documents/FACULTATE/ANUL 4/SEM 1/IPIVA/TEMA 2/set5/9.png')
-img4 = cv2.imread(r'C:/Users/sandr/Documents/FACULTATE/ANUL 4/SEM 1/IPIVA/TEMA 2/set5/2.png')
-img5 = cv2.imread(r'C:/Users/sandr/Documents/FACULTATE/ANUL 4/SEM 1/IPIVA/TEMA 2/set5/11.png')
+img1 = cv2.imread(r'C:/Users/you/Documents/image-set/4.png')
+img2 = cv2.imread(r'C:/Users/you/Documents/image-set/5.png')
+img3 = cv2.imread(r'C:/Users/you/Documents/image-set/9.png')
+img4 = cv2.imread(r'C:/Users/you/Documents/image-set/2.png')
+img5 = cv2.imread(r'C:/Users/you/Documents/image-set/11.png')
 
 # Display initial images
 plt.figure()
